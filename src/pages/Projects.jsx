@@ -20,8 +20,8 @@ const Projects = () => {
           title="Portfolio Website"
           main="A fully responsive portfolio website built with smooth animations and reusable components."
           languages="React.js • Tailwind CSS"
-          demo="https://github.com/pratikvardekar-lgtm/laravel-e-commerce-webiste"
-          code="https://github.com/pratikvardekar-lgtm/laravel-e-commerce-webiste"
+          demo="https://github.com/pratikvardekar-lgtm/React-Portfolio"
+          code="https://github.com/pratikvardekar-lgtm/React-Portfolio"
         />
 
         <ProjectCard
