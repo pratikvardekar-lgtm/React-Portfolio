@@ -13,7 +13,7 @@ const Home = () => {
         className="text-black bg-[#0f1429] flex flex-col md:flex-row w-full justify-between items-center md:items-start p-6 md:p-20 mt-10">
         {/* Left Section */}
         <div className="md:w-2/4 text-center md:text-left mt-10">
-          <h1 className="text-3xl md:text-6xl font-bold leading-tight tracking-tighter text-white">
+          <h1 className="text-3xl md:text-6xl font-bold tracking-tighter text-white">
             Hello, I am <span className="text-white">Pratik</span>
           </h1>
 
@@ -36,8 +36,7 @@ const Home = () => {
           <img
             className="w-64 md:w-[420px]"
             src={avatarImg}
-            alt="avatar"
-          />
+            alt="avatar"/>
         </div>
       </div>
 
