@@ -18,7 +18,7 @@ const Home = () => {
         {/* Left Section */}
         <div className="md:w-2/4 text-center md:text-left mt-10">
           <h1 className="text-3xl md:text-6xl font-bold tracking-tighter">
-            Hello, I am <span className="">Pratik</span>
+            Hello, I am <span className="text-yellow-200">Pratik</span>
           </h1>
 
           <p className="text-sm md:text-2xl tracking-tight mt-6 md:mt-10">
