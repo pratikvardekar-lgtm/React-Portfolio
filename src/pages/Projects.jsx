@@ -20,7 +20,7 @@ const Projects = () => {
           title="Portfolio Website"
           main="A fully responsive portfolio website built with smooth animations and reusable components."
           languages="React.js • Tailwind CSS"
-          demo="https://github.com/pratikvardekar-lgtm/laravel-e-commerce-webiste"
+          demo="https://my-portfolio-pratik.netlify.app/"
           code="https://github.com/pratikvardekar-lgtm/laravel-e-commerce-webiste"
         />
 
@@ -28,7 +28,7 @@ const Projects = () => {
           title="E-Commerce Website"
           main="A fully responsive e-commerce web application with dynamic product data fetched using Axios and global state management implemented with React Context API."
           languages="React.js • Tailwind CSS • Context API • Axios"
-          demo="https://your-ecommerce-live-link.com"
+          demo="https://ecommercewebsite288a6.netlify.app/"
           code="https://github.com/pratikvardekar-lgtm/react-e-ccomerce-website"
         />
 

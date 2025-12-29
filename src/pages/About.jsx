@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImg from "../assets/image.png";
+import AboutImg from "../assets/pratik.webp";
 import { IoArrowForward } from "react-icons/io5";
 
 const About = () => {
