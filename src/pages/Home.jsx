@@ -28,11 +28,15 @@ const Home = () => {
           </p>
 
           {/* Scroll to Contact Section */}
-          <Link to="/contact">
+          <a
+            href="https://wa.me/918010840157"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <button className="mt-6 md:mt-10 text-white text-sm md:text-lg py-2 px-6 hover:opacity-80 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
               Contact Me
             </button>
-          </Link>
+          </a>
         </div>
 
         {/* Right Section */}
